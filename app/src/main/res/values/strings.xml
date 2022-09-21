@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Namecoin Test App</string>
+    <string name="home">Home</string>
+    <string name="member">NMC</string>
+    <string name="Mention">Name</string>
+    <string name="my_page">Setting</string>
+    <string name="lucky">You are lucky! This name is available.</string>
+    <string name="transfer_to">Transfer to</string>
+    <string name="date">Date</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="History">History</string>
+    <string name="Manage">Manage</string>
+    <string name="buy">Buy</string>
+</resources>
